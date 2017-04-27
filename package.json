@@ -30,9 +30,14 @@
     "html-webpack-plugin": "^2.28.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
+    "redux-devtools": "^3.4.0",
     "standard": "^10.0.2",
     "style-loader": "^0.13.2",
     "webpack": "^2.2.1",
     "webpack-dev-server": "^2.4.1"
+  },
+  "dependencies": {
+    "react-redux": "^5.0.4",
+    "redux": "^3.6.0"
   }
 }
